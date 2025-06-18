@@ -1,0 +1,83 @@
+#!/bin/python3
+
+import math
+import os
+import random
+import re
+import sys
+
+#
+# Complete the 'bfs' function below.
+#
+# The function is expected to return an INTEGER_ARRAY.
+# The function accepts following parameters:
+#  1. INTEGER n
+#  2. INTEGER m
+#  3. 2D_INTEGER_ARRAY edges
+#  4. INTEGER s
+#
+
+def bfs(n, m, edges, s):
+    # Write your code here
+    visited = [False] * (n + 1)
+    visited[0] = True
+    
+    graph = [[] for i in range(n+1)]
+    dist_arr = [-1] * (n + 1)
+    
+    
+    for edge in edges:
+        graph[edge[0]].append(edge[1])
+        graph[edge[1]].append(edge[0])
+    
+    queue = [s]
+    dist_arr[s] = 0
+    
+    while len(queue) != 0:
+        head = queue.pop(0)
+        for element in graph[head]:
+            if not visited[element]:
+                visited[element] = True
+                dist_arr[element] =  dist_arr[head]+6
+                queue.append(element)
+                
+            
+                
+                
+                
+    print_arr = []
+    for i in range(1,n+1):
+        if i != s:
+            print_arr.append(dist_arr[i])
+    
+    return print_arr
+    # print(" ".join(str(item) for item in print_arr))
+
+    
+    
+    
+if __name__ == '__main__':
+    fptr = open(os.environ['OUTPUT_PATH'], 'w')
+
+    q = int(input().strip())
+
+    for q_itr in range(q):
+        first_multedgesiple_input = input().rstrip().split()
+
+        n = int(first_multedgesiple_input[0])
+
+        m = int(first_multedgesiple_input[1])
+
+        edges = []
+
+        for _ in range(m):
+            edges.append(list(map(int, input().rstrip().split())))
+
+        s = int(input().strip())
+
+        result = bfs(n, m, edges, s)
+
+        fptr.write(' '.join(map(str, result)))
+        fptr.write('\n')
+
+    fptr.close()
