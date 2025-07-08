@@ -13,4 +13,6 @@ Solving code from HackerRank.
 
 6 - pairs
 
-7 - sherlook-and-validate-string
+7 - sherlock-and-validate-string
+
+8 - FlippingBits
