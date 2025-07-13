@@ -17,4 +17,4 @@ Solving code from HackerRank.
 
 8 - FlippingBits
 
-9 - common child
+9 - Common child
