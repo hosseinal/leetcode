@@ -18,3 +18,5 @@ Solving code from HackerRank.
 8 - FlippingBits
 
 9 - Common child
+
+10 - neetcode-Contains-Duplicate
