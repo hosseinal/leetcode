@@ -22,3 +22,5 @@ Solving code from HackerRank.
 10 - neetcode-Contains-Duplicate
 
 11 - neetcode-Valid-anagram
+
+12 - neetcode-3sum
