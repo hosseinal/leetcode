@@ -24,3 +24,5 @@ Solving code from HackerRank.
 11 - neetcode-Valid-anagram
 
 12 - neetcode-3sum
+
+13 - Valid Parentheses
