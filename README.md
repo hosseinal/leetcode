@@ -26,3 +26,5 @@ Solving code from HackerRank.
 12 - neetcode-3sum
 
 13 - Valid Parentheses
+
+14 - Invert Binary Tree
