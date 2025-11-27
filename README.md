@@ -28,3 +28,5 @@ Solving code from HackerRank.
 13 - Valid Parentheses
 
 14 - Invert Binary Tree
+
+15 - Minimum Stack
