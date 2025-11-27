@@ -30,3 +30,5 @@ Solving code from HackerRank.
 14 - Invert Binary Tree
 
 15 - Minimum Stack
+
+16 - Reversed Linked List
