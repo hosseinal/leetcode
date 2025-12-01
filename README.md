@@ -32,3 +32,11 @@ Solving code from HackerRank.
 15 - Minimum Stack
 
 16 - Reversed Linked List
+
+17 - Merge Two Sorted List
+
+18 - Maximum Depth
+
+19 - Prefix Tree
+
+20 - Longest_Substring_Without_Repeating_Characters
