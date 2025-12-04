@@ -40,3 +40,9 @@ Solving code from HackerRank.
 19 - Prefix Tree
 
 20 - Longest_Substring_Without_Repeating_Characters
+
+21 - Linked List Cycle Detection
+
+22 - Search Matrix
+
+23 - Diameter of Binary Tree
