@@ -46,3 +46,5 @@ Solving code from HackerRank.
 22 - Search Matrix
 
 23 - Diameter of Binary Tree
+
+24 - Balanced Binary Tree
