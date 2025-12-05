@@ -48,3 +48,7 @@ Solving code from HackerRank.
 23 - Diameter of Binary Tree
 
 24 - Balanced Binary Tree
+
+25 - Same Binary Tree
+
+26 - Reorderd Linked List
