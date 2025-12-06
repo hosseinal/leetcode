@@ -9,21 +9,21 @@ Solving code from HackerRank.
 
 4 - Almost Sorted
 
-5 - bfs-shortest-reach
+5 - Bfs Shortest Reach
 
-6 - pairs
+6 - Pairs
 
-7 - sherlock-and-validate-string
+7 - Sherlock And Validate String
 
-8 - FlippingBits
+8 - Flipping Bits
 
 9 - Common child
 
-10 - neetcode-Contains-Duplicate
+10 - Neetcode Contains Duplicate
 
-11 - neetcode-Valid-anagram
+11 - Neetcode Valid Anagram
 
-12 - neetcode-3sum
+12 - Neetcode 3sum
 
 13 - Valid Parentheses
 
@@ -39,7 +39,7 @@ Solving code from HackerRank.
 
 19 - Prefix Tree
 
-20 - Longest_Substring_Without_Repeating_Characters
+20 - Longest Substring Without Repeating Characters
 
 21 - Linked List Cycle Detection
 
@@ -52,3 +52,5 @@ Solving code from HackerRank.
 25 - Same Binary Tree
 
 26 - Reorderd Linked List
+
+27 - Kth Largest Element in a Stream
