@@ -54,3 +54,17 @@ Solving code from HackerRank.
 26 - Reorderd Linked List
 
 27 - Kth Largest Element in a Stream
+
+28 - Number of Islands
+
+29 - Last Stone Weight
+
+30 - Remove Nth Node from the end of the List
+
+28 - Number of Islands
+
+29 - Number of Islands
+
+30 - plusOne
+
+31 - Climbing Tree
