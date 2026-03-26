@@ -68,3 +68,7 @@ Solving code from HackerRank.
 30 - plusOne
 
 31 - Climbing Tree
+
+32 - Rotten fruit
+
+33 - Island and treasure
