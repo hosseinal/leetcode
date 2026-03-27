@@ -17,7 +17,7 @@ Solving code from HackerRank.
 
 8 - Flipping Bits
 
-9 - Common child
+9 - Common Child
 
 10 - Neetcode Contains Duplicate
 
@@ -65,10 +65,12 @@ Solving code from HackerRank.
 
 29 - Number of Islands
 
-30 - plusOne
+30 - PlusOne
 
 31 - Climbing Tree
 
-32 - Rotten fruit
+32 - Rotten Fruit
 
-33 - Island and treasure
+33 - Island and Treasure
+
+34 - Meeting Room
