@@ -67,6 +67,8 @@ Solving code from HackerRank.
 
 30 - PlusOne
 
+31 - Jump Game
+
 31 - Climbing Tree
 
 32 - Rotten Fruit
