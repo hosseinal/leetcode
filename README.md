@@ -80,3 +80,5 @@ Solving code from HackerRank.
 35 - Pacific Atlantic Water Flow
 
 36 - Add Two Numbers
+
+37 - Find the duplicate number
