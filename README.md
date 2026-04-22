@@ -78,3 +78,5 @@ Solving code from HackerRank.
 34 - Meeting Room
 
 35 - Pacific Atlantic Water Flow
+
+36 - Add Two Numbers
