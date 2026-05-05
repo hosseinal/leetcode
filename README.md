@@ -86,3 +86,5 @@ Solving code from HackerRank.
 38- Copy Linked List With Two Random Pointers
 
 39 - Design Add and Search Word Data Structure
+
+40 - Min Cost Climbing Stair
