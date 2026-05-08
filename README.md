@@ -92,3 +92,5 @@ Solving code from HackerRank.
 41 - House Robber
 
 42 - House Robber 2
+
+43 - Graph Valid Tree
