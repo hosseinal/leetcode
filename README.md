@@ -94,3 +94,5 @@ Solving code from HackerRank.
 42 - House Robber 2
 
 43 - Graph Valid Tree
+
+44- Course Schdule
