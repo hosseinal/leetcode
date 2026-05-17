@@ -97,4 +97,6 @@ Solving code from HackerRank.
 
 44- Course Schdule
 
+45 - Longest Consecutive Sequence
+
 45- Word Break
