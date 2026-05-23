@@ -104,3 +104,5 @@ Solving code from HackerRank.
 47 - Group Arrange
 
 48 - Car Fleet
+
+49 - LRU Cache
