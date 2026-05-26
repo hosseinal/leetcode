@@ -83,7 +83,7 @@ Solving code from HackerRank.
 
 37 - Find the duplicate number
 
-38- Copy Linked List With Two Random Pointers
+38 - Copy Linked List With Two Random Pointers
 
 39 - Design Add and Search Word Data Structure
 
@@ -108,3 +108,5 @@ Solving code from HackerRank.
 49 - LRU Cache
 
 50 - Valid Parantesis String
+
+51 - Binary Search
