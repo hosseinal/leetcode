@@ -110,3 +110,9 @@ Solving code from HackerRank.
 50 - Valid Parantesis String
 
 51 - Binary Search
+
+52 - Counting Bits
+
+53 - Missing Number
+
+54 - Rotate Image
