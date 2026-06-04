@@ -116,3 +116,5 @@ Solving code from HackerRank.
 53 - Missing Number
 
 54 - Rotate Image
+
+55 - Coin Change
