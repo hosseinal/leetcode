@@ -118,3 +118,5 @@ Solving code from HackerRank.
 54 - Rotate Image
 
 55 - Coin Change
+
+56 - Insert Interval
