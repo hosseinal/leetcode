@@ -19,11 +19,11 @@ Solving code from HackerRank.
 
 9 - Common Child
 
-10 - Neetcode Contains Duplicate
+10 - Contains Duplicate
 
-11 - Neetcode Valid Anagram
+11 - Valid Anagram
 
-12 - Neetcode 3sum
+12 - 3sum
 
 13 - Valid Parentheses
 
@@ -95,11 +95,11 @@ Solving code from HackerRank.
 
 43 - Graph Valid Tree
 
-44- Course Schdule
+44 - Course Schdule
 
 45 - Longest Consecutive Sequence
 
-46- Word Break
+46 - Word Break
 
 47 - Group Arrange
 
@@ -120,3 +120,16 @@ Solving code from HackerRank.
 55 - Coin Change
 
 56 - Insert Interval
+
+57 - Merge Intervals
+
+58 - Non-overlapping Intervals
+
+59 - Products of Array Except Self
+
+60 - Encode and Decode Strings
+
+61 - Two Sum
+
+62 - Valid Sudoku
+
