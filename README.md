@@ -133,3 +133,18 @@ Solving code from HackerRank.
 
 62 - Valid Sudoku
 
+63 - Top K Frequent Elements
+
+64 - Container With Most Water
+
+65 - Valid palindrome
+
+66 - Two Integer Sum II
+
+67 - Daily Temperatures
+
+68 - Best Time to Buy and Sell Stock
+
+69 - Subsets
+
+70 - Hyper Number
