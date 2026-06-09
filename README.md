@@ -148,3 +148,5 @@ Solving code from HackerRank.
 69 - Subsets
 
 70 - Hyper Number
+
+71 - Permutation
