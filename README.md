@@ -150,3 +150,5 @@ Solving code from HackerRank.
 70 - Hyper Number
 
 71 - Permutation
+
+72 - Combination Sum
