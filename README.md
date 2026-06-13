@@ -152,3 +152,18 @@ Solving code from HackerRank.
 71 - Permutation
 
 72 - Combination Sum
+
+73 - subset II
+
+74 - Count Good Nodes in Binary Tree
+
+75 - Binary Tree Level Order Traversal
+
+76 - Binary Tree Right Side View
+
+77 - Validate Binary Search Tree
+
+78 - Kth Smallest Element In a Bst
+
+79 - Costruct Binary Tree From Preorder And Inorder Traversal
+
