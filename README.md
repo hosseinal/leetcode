@@ -169,3 +169,8 @@ Solving code from HackerRank.
 
 80 - Binary Tree Maximum Path Sum
 
+81 - Serialize and Deserialize Binary Tree
+
+82 - Lowest Common Ancestor in Binary Search Tree
+
+83 - SubTree of Another Tree
