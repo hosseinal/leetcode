@@ -174,3 +174,9 @@ Solving code from HackerRank.
 82 - Lowest Common Ancestor in Binary Search Tree
 
 83 - SubTree of Another Tree
+
+84 - Generate Parentheses
+
+85 - Reverse Integer
+
+86 - Sum of Two Integers
