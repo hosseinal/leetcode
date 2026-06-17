@@ -180,3 +180,11 @@ Solving code from HackerRank.
 85 - Reverse Integer
 
 86 - Sum of Two Integers
+
+87 - Bitwise AND of Numbers Range:
+
+88 - Kth Largest Element in an Array
+
+89 - Longest Common Prefix
+
+90 - Move Zeroes
