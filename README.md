@@ -188,3 +188,7 @@ Solving code from HackerRank.
 89 - Longest Common Prefix
 
 90 - Move Zeroes
+
+91 - Binary Tree Pruning
+
+92 - Summary Range
