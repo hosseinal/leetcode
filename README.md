@@ -192,3 +192,6 @@ Solving code from HackerRank.
 91 - Binary Tree Pruning
 
 92 - Summary Range
+
+93 - Odd Even Linked List
+
