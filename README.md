@@ -196,3 +196,7 @@ Solving code from HackerRank.
 93 - Odd Even Linked List
 
 94 - Word Pattern
+
+95 - Copy List With random pointer
+
+96 - ADD Two Numbers Linked List
